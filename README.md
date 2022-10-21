@@ -11,8 +11,9 @@
 ## 更新计划
 具体将随着我学习进度不定期更新
 
-
 ## 环境配置
 为更好的阅读，可参考如下链接对Jupyter Notebook进行配置：
+
 [jupyter notebook奇技淫巧：玩转Markdown目录 - 尤而小屋的文章 - 知乎](https://zhuanlan.zhihu.com/p/548349750)
+
 [Jupyter可配置nbextensions列表为空](https://stackoverflow.com/questions/62763031/jupyter-configurable-nbextensions-list-is-empty)
